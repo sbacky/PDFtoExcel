@@ -1,0 +1,5 @@
+excel/
+pdf/
+.mypy_cache/
+.venv/
+.DS_Store
